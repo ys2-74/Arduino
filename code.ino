@@ -1,5 +1,4 @@
-// April 18, 2024
-// Final Project
+// Final Project - Flash Light Memory Game
 
 // declare variables
 int bRed=6;
@@ -301,7 +300,7 @@ void showWarningLight()
     digitalWrite(yellowLED, LOW);
     digitalWrite(redRGB, LOW);
     digitalWrite(greenRGB, LOW);
-  	digitalWrite(blueRGB, LOW);
+	digitalWrite(blueRGB, LOW);
     delay(200);
   }
 }
